@@ -1,0 +1,5 @@
+import random
+index = [i for i in range(len(data))]
+random.shuffle(index)
+data = data[index]
+label = label[index]
