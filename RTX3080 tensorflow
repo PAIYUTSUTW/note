@@ -1,0 +1,4 @@
+cuda == 11.1
+pip install tf-nightly-gpu==2.5.0-dev20201121
+keras == 2.4.3
+cudnn == 8.0.4
